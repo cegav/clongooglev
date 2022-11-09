@@ -7,9 +7,9 @@ to be used to deceive any person or company.
 
 
 ## Features
-- Crear el Header de una página
-- Estructurar el contenido principal de una página
-- Construir el Footer de una página
+- Create a page header
+- Structure the main content of a page
+- Build the footer of a page
 
 
 ## Google clone view
